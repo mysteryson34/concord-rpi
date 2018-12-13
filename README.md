@@ -6,6 +6,6 @@ What's Included/Available (Optional):
 - shell installer scripts for easier installation (must clone this repo if not using aformentioned .IMG file)
 - etcetera?
 
-**What's included?**
-- Raspbian Stretch (lite)
-- i3-gaps
+All of the pre-installed packages are as follows:
+
+		raspberrypi-kernel-headers git bc autotools-dev dh-make autoconf-archive cmake xutils-dev bsdtar lrzip zip neofetch zsh bridge-utils nmap lshw hwinfo
