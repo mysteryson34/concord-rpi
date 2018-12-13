@@ -6,4 +6,6 @@ What's Included/Available (Optional):
 - shell installer scripts for easier installation (must clone this repo if not using aformentioned .IMG file)
 - etcetera?
 
-**What's on the .img?**
+**What's included?**
+- Raspbian Stretch (lite)
+- i3-gaps
