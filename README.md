@@ -8,4 +8,4 @@ What's Included/Available (Optional):
 
 All of the pre-installed packages are as follows:
 
-	raspberrypi-kernel-headers git bc autotools-dev dh-make autoconf-archive cmake xutils-dev bsdtar lrzip zip neofetch zsh bridge-utils nmap lshw hwinfo alsa-base alsa-tools libasound2-dev libparted-dev raspi-gpio wiringpi gpiod pigpio python-rpi.gpio python3-rpi.gpio python-pigpio python3-pigpio
+	raspberrypi-kernel-headers git bc autotools-dev dh-make autoconf-archive cmake xutils-dev bsdtar lrzip zip neofetch zsh bridge-utils nmap lshw hwinfo alsa-base alsa-tools libasound2-dev libparted-dev raspi-gpio wiringpi gpiod pigpio python-rpi.gpio python3-rpi.gpio python-pigpio python3-pigpio usbmuxd libusbmuxd-tools adb android-libadb-dev
