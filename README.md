@@ -8,4 +8,4 @@ What's Included/Available (Optional):
 
 All of the pre-installed packages are as follows:
 
-		raspberrypi-kernel-headers git bc autotools-dev dh-make autoconf-archive cmake xutils-dev bsdtar lrzip zip neofetch zsh bridge-utils nmap lshw hwinfo
+	raspberrypi-kernel-headers git bc autotools-dev dh-make autoconf-archive cmake xutils-dev bsdtar lrzip zip neofetch zsh bridge-utils nmap lshw hwinfo
